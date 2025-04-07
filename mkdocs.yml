@@ -23,8 +23,8 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
 
-  icon:
-    logo: fontawesome/solid/web-awesome
+  logo: assets/images/BI_Concepts_logo_graphic_color.png
+
 
   features:
     - navigation.footer
