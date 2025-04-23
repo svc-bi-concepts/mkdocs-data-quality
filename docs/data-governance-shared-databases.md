@@ -7,7 +7,7 @@
 ## Snowflake Only
 - Data Quality Tests: Implement [DQ tests for shared databases](data-quality-tests-shared-databases.md):
     - Not nulls implement as table constraints
-    - Other tests implement as [DMF DQ Tests](data-quality-tests-snowflake-only.md) 
+    - Other tests implement as [DMF DQ Tests](data-quality-tests-snowflake-only.md) possibly utilising [Tasks and Streams](snowflake-tasks-and-streams-for-data-quality.md)
 - Data Contracts: Currently not directly supported in Snowflake
 
 ## Data Quality Tools 
